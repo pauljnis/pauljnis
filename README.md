@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pauljnis
-- 👀 I’m interested in a moving edition.
+- 👀 I’m interested in a video editing.
 - 🌱 I’m currently learning an app for example capcut.
 - 💞️ I’m looking to collaborate on shch an moving app product.
 
