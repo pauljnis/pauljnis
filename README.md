@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pauljnis
+- 👋 Hi, I’m @pauljnis.
 - 👀 I’m interested in a video editing.
 - 🌱 I’m currently learning an app for example capcut, DaVinci Resolve.
 - 💞️ I’m looking to collaborate on such a moving app with a friend.
