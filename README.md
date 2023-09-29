@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pauljnis.
-- 👀 I’m interested in both a video editing and a gyouseishosi lawyer examination & answer.
+- 👀 I’m interested in not only a video editing but also a programming about an immigrant lawyer examination & answer.
 - 🌱 I’m currently learning an app for example capcut and coding the httml document of the examination review.
 - 💞️ I’m looking to collaborate on such a moving app and a programming with a friend.
 
