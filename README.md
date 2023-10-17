@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pauljnis.
 - 👀 I’m interested in not only a video editing but also a programming about an immigrant lawyer examination & answer.
-- 🌱 I’m currently learning an app for example capcut and coding the html document of the examination review.
-- 💞️ I’m looking to collaborate on such a moving app and a programming JavaScript with a friend.
+- 🌱 I’m currently learning an app for coding the html document of the examination review.
+- 💞️ I’m looking to collaborate on such a programming JavaScript with a friend.
 
 <!---
 pauljnis/pauljnis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
