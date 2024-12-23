@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pauljnis.
-- 👀 I’m interested in not only a video editing but also a programming about an immigrant lawyer examination & answer.
+- 👀 I’m interested in a programming.
 - 🌱 I’m currently learning an app for coding the html document of the examination review.
 - 💞️ I’m looking to collaborate on such a programming JavaScript with html and CSS together with a friend.
 
